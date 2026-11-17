@@ -82,6 +82,22 @@ const Portfolio = () => {
 
  const experiences = [
   {
+    title: 'MagangHub - Quality Assurance Analyst',
+    company: 'PT Grafindo Mitra Semesta',
+    period: 'Nov 2026 - Saat ini',
+    description: 'Saat ini mengikuti program MagangHub sebagai Quality Assurance Analyst dengan fokus pada pengujian aplikasi, pengecekan kualitas produk, identifikasi bug, serta memastikan sistem berjalan sesuai kebutuhan dan standar kualitas perusahaan.',
+    technologies: ['Quality Assurance', 'Software Testing', 'Bug Review', 'Process Validation'],
+    type: 'internship'
+  },
+  {
+    title: 'Magang Admin Marketing',
+    company: 'Nusantara Sakti',
+    period: 'Jun 2026 - Jul 2026',
+    description: 'Mengelola chat customer, menjawab kebutuhan pelanggan, serta memasukkan data customer ke dalam sistem data secara rapi dan akurat agar proses administrasi dan pelayanan berjalan lancar.',
+    technologies: ['Customer Service', 'Data Entry', 'Admin Marketing', 'CRM Support'],
+    type: 'internship'
+  },
+  {
     title: 'Magang Pengadaan Teknologi Informasi',
     company: 'PT PLN (Persero) UPT Purwokerto',
     period: 'Feb 2025 - Mar 2025',
